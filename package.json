@@ -1,0 +1,11 @@
+{
+  "name": "node-opentracing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "description": "OpenTracing example written in nodejs",
+  "author": "alextanhongpin <alextan@seekasia.com>",
+  "dependencies": {
+    "jaeger-client": "^3.5.3"
+  }
+}
